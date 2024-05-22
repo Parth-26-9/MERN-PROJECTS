@@ -1,0 +1,56 @@
+Brief instruction about what are doing in this project
+
+## Step 1:-
+
+-> Frontend Part :-
+
+code :- npm create vite@latest
+
+Framework :- React
+Variant :- TypeScript + SWC
+
+## Step 2:- Install Tailwind
+
+then move to tailwind css with vite
+
+complete necessary things
+
+## Step 3:- Install shadcn vite
+
+complete necessary things here as well
+
+## Step 4:- How to use shadcn components
+
+for use those components we need to have those commands and those we will get from particular component
+
+## Step 5:- What will our Project Structure just clear this so letter we don't need to think on this
+
+-> Project Structure :-
+
+1) Header (Top)
+2) Code Writer (Left) 
+3) Code Display  (Right)
+
+## Step 6 :- Then Build Header of our Project as per Structure
+
+## Step 7 :- Install Dark Theme of shadcn
+
+## Step 8 :- Build Code Editor
+
+-> For this you need library called :- CodeMirror
+
+-> https://www.npmjs.com/package/@uiw/react-codemirror
+
+then we install this theme so it looks good :-
+
+@uiw/codemirror-theme-dracula
+
+## Step 9 :- Now if we want for all language then :-
+
+-> We need to install this package :- 
+
+npm i @uiw/codemirror-extensions-langs
+
+## Step 10 :- Install Icon Library
+
+-> Lucide.dev

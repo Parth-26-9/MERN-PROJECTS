@@ -1,0 +1,32 @@
+# ECommerce Website
+
+## Technical Features
+1. Redux ToolKit with Async Thunk
+2. Authentication via Passport JS
+3. REST API Auth via Passport JWT
+4. Payments Via Stripe
+5. Email via Nodemailer (Gmail)
+6. Mongoose Models / Populate
+7. Deployed Vercel With Mongo Atlas
+
+## Project Setup
+
+1. React :- npm create vite@latest
+2. Tailwind
+3. For Components :- npm i @tailwindcss/aspect-ratio and put [ require('@tailwindcss/aspect-ratio')]
+this is how for each component we're doing the same install the package and then put it on the 
+4. React Router for Routing One Component to Another Component
+
+## Flow of my project
+
+In this project i created Frontend first then i move to backend
+
+1. # FrontEnd Part
+
+-> Gather all Components from tailwind 
+-> Login Signup Authentication
+-> Create each page that we need for frontend
+
+
+
+
